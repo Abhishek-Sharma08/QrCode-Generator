@@ -2,9 +2,6 @@
 
 A simple and responsive QR Code generator web app built using HTML, CSS, and JavaScript. Enter any text or URL, click a button, and get a QR code instantly using the QuickChart API.
 
-## 🚀 Live Demo
-
-> _Optional: Add a link here if deployed (e.g. GitHub Pages or Netlify)_
 
 ---
 
@@ -26,13 +23,7 @@ A simple and responsive QR Code generator web app built using HTML, CSS, and Jav
 └── script.js        # QR generation logic
 ```
 
----
 
-## 📸 Preview
-
-> _Optional: Add a screenshot here_
-
----
 
 ## 🔧 How It Works
 
@@ -63,14 +54,7 @@ A simple and responsive QR Code generator web app built using HTML, CSS, and Jav
 - **Vanilla JavaScript**
 - **[QuickChart.io](https://quickchart.io/)** – for generating QR codes
 
----
 
-## ✨ Author
-
-**Abhishek Sharma**  
-> Optional: Add GitHub or portfolio link
-
----
 
 ## 📃 License
 
